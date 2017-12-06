@@ -27,7 +27,7 @@ More Tuft:
 
 ### Leland Wilkinson
 
-Leland comes from industry, having worked for SPSS, Tableau. Wrote the textbook [Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448). Note: this is a *dense* 691 page book; don't start here. $17 for [digital copy](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448).
+Leland comes from industry, having worked for SPSS, Tableau. Wrote the textbook [Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448). Note: this is a *dense* 691 page book; don't start with this one. $17 for [digital copy](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448).
 
 Wait a second, isn't grammar about words? From [here](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf):
 
