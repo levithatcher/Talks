@@ -29,7 +29,7 @@ More Tuft:
 
 Leland comes from industry, having worked for SPSS, Tableau. Wrote the textbook [Grammar of Graphics](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448). Note: this is *dense* 691 page book; don't start here. $17 for [digital copy](https://www.amazon.com/Grammar-Graphics-Statistics-Computing/dp/0387245448).
 
-Wait, isn't grammar words? From [here](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf):
+Wait a second, isn't grammar about words? From [here](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf):
 
 > A grammar of graphics is a tool that enables us to concisely describe the components of a graphic. Such a grammar allows us to move beyond named graphics (e.g., the “scatterplot”) and gain insight into the deep structure that underlies statistical graphics.
 
@@ -59,7 +59,7 @@ Cleveland says people are able to decode these things most accurately (in order)
 
 **Note: images come from [Ken Broman](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf)**
 
-### When comparing, align vertically
+### When comparing, align vertically instead of horizontally
 
 ![](images/AlignVertically.png)
 
@@ -93,11 +93,13 @@ Cleveland says people are able to decode these things most accurately (in order)
 
 ### Blogs
 
-- [Junk Charts](http://junkcharts.typepad.com)
-- [Perceptual Edge](http://www.perceptualedge.com) from BI perspective
+- [Junk Charts](http://junkcharts.typepad.com) (Thoughtful criticism)
+- [Perceptual Edge](http://www.perceptualedge.com) (from BI perspective)
+- [Mike Bostock](https://bost.ocks.org/mike/)
+- [Flowing data](http://flowingdata.com/)
 
 ### Talks
 
 - [How to display data badly by Ken Broman](https://www.biostat.wisc.edu/~kbroman/presentations/graphs_cmp2014.pdf)
 - [Behind every great plot there's a great deal of wrangling by Jenny Bryan](https://www.youtube.com/watch?v=4MfUCX_KpdE)
-- Most stuff from [Plotcon](https://www.youtube.com/results?search_query=plotcon&page=&utm_source=opensearch)
+- Most talks from [Plotcon](https://www.youtube.com/results?search_query=plotcon&page=&utm_source=opensearch)
